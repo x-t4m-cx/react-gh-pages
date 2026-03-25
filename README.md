@@ -1,10 +1,6 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Install the gh-pages npm package
 
-$ npm install gh-pages --save-dev
+  npm install gh-pages --save-dev
 
 ## Add a homepage property to the package.json file
 

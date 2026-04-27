@@ -26,6 +26,8 @@ jobs:
 
     - name: Install dependencies
       run: npm install
+    
+    -name: ESLint
 
     - name: Build
       run: npm run build
